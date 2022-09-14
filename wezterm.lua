@@ -5,6 +5,7 @@ return {
     background = '#000',
     cursor_bg = '#34c6ff'
   },
+  default_prog = { 'C:/Program Files/Git/bin/bash.exe', '-l' },
   font = wezterm.font({
     family = "FiraCode NF",
     harfbuzz_features = { "liga=1"  }
