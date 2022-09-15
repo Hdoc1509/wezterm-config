@@ -26,6 +26,8 @@ return {
         PasteFrom = "PrimarySelection"
       }
     }
-  }
+  },
+  windows_close_confirmation = "NeverPrompt",
+  term = "xterm-256color",
 }
 
