@@ -5,6 +5,10 @@ return {
     background = '#000',
     cursor_bg = '#34c6ff'
   },
+  cursor_blink_ease_in = "Constant",
+  cursor_blink_ease_out = "Constant",
+  cursor_blink_rate = 500,
+  default_cursor_style = 'BlinkingBlock',
   default_prog = { 'C:/Program Files/Git/bin/bash.exe', '-l' },
   font = wezterm.font({
     family = "FiraCode NF",
