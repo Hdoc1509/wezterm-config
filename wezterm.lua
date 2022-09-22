@@ -27,7 +27,7 @@ return {
       }
     }
   },
-  windows_close_confirmation = "NeverPrompt",
+  window_close_confirmation = "NeverPrompt",
   term = "xterm-256color",
 }
 
