@@ -18,3 +18,8 @@ git clone --depth 1 https://github.com/Hdoc1509/wezterm-config ~/.config/wezterm
 degit Hdoc1509/wezterm-config ~/.config/wezterm
 ```
 
+## My other software configurations
+
+- [git-bash-config](https://github.com/Hdoc1509/git-bash-config)
+- [nvim-config-vim](https://github.com/Hdoc1509/nvim-config-vim)
+
