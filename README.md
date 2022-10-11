@@ -1,6 +1,6 @@
 # wezterm-config
 
-Personal configuration for [wezterm](https://wezfurlong.org/wezterm/)
+This repository hosts my personal configuration for [wezterm](https://wezfurlong.org/wezterm/).
 
 ## Installation
 
