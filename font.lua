@@ -5,7 +5,7 @@ module.font = wezterm.font({
   family = 'FiraCode NF',
   harfbuzz_features = { 'liga=1'  }
 })
-module.font_size = 13
+module.font_size = 12.5
 
 return module
 
