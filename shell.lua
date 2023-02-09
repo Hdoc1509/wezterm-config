@@ -1,6 +1,6 @@
-local module = {}
+local M = {}
 
-module.default_prog = { 'C:/Program Files/Git/bin/bash.exe', '-l' }
+M.default_prog = { 'C:/Program Files/Git/usr/bin/zsh.exe', '-l' }
 
-return module
+return M
 

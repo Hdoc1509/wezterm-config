@@ -1,6 +1,6 @@
-local module = {}
+local M = {}
 
-function module.merge(...)
+function M.merge(...)
   local result = {}
 
   for _, t in ipairs{...} do
@@ -18,5 +18,5 @@ function module.merge(...)
   return result
 end
 
-return module
+return M
 

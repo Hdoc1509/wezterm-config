@@ -1,5 +1,5 @@
 local wezterm = require('wezterm')
-local module = {}
+local M = {}
 local paste_right_click = {
   event = {
     Up = {
@@ -13,7 +13,7 @@ local paste_right_click = {
   }
 }
 
-module.mouse_bindings = { paste_right_click }
+M.mouse_bindings = { paste_right_click }
 
-return module
+return M
 

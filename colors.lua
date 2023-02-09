@@ -1,7 +1,7 @@
-local module = {}
+local M = {}
 
-module.color_scheme = 'carbonfox'
-module.colors = {
+M.color_scheme = 'carbonfox'
+M.colors = {
 	cursor_bg = '#34c6ff',
 	background = '#000000',
 	foreground = '#ffffff',
@@ -27,6 +27,6 @@ module.colors = {
 	},
 }
 
-module.term = 'xterm-256color'
+M.term = 'xterm-256color'
 
-return module
+return M

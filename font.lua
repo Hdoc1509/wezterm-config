@@ -1,11 +1,11 @@
 local wezterm = require('wezterm')
-local module = {}
+local M = {}
 
-module.font = wezterm.font({
+M.font = wezterm.font({
   family = 'FiraCode NF',
   harfbuzz_features = { 'liga=1'  }
 })
-module.font_size = 12.5
+M.font_size = 12.5
 
-return module
+return M
 
