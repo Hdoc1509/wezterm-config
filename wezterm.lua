@@ -68,21 +68,6 @@ return {
 		bottom = 0,
 	},
 
-	-- MOUSE BINDINGS
-	mouse_bindings = {
-		-- Paste with right click
-		{
-			event = {
-				Up = {
-					streak = 1,
-					button = 'Right',
-				},
-			},
-			mods = 'NONE',
-			action = act.PasteFrom('PrimarySelection'),
-		},
-	},
-
 	-- KEY BINDINGS
 	keys = {
 		-- Split horizontally
