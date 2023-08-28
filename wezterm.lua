@@ -19,6 +19,7 @@ return {
 	color_scheme = 'carbonfox',
 	colors = {
 		cursor_bg = '#34c6ff',
+		cursor_border = '#34c6ff',
 		background = '#000000',
 		foreground = '#ffffff',
 		ansi = {
@@ -41,6 +42,7 @@ return {
 			'#00d5d5', -- bright-cyan
 			'#ffffff', -- bright-white
 		},
+		split = '#34c6ff',
 	},
 	term = 'xterm-256color',
 
