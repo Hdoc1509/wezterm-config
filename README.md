@@ -1,5 +1,8 @@
-# wezterm-config
+# Archived
 
+I moved my `wezterm` config to my [dotfiles repo](https://github.com/Hdoc1509/dotfiles).
+
+# wezterm-config
 This repository hosts my personal configuration for [wezterm](https://wezfurlong.org/wezterm/).
 
 ## Installation
